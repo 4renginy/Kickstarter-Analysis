@@ -14,7 +14,8 @@ General data indicates that May is the best month to launch the campaigns. From 
 ![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-General Data indicates that ($1,000-$ 4,999) goal range has 73% success rate and and low fail percentage.Between $ 15,000-$ 20,000 has 50-50 chance of failing or succeding.  As the goal amount raises the percentage of failure raises too. "Fever" had a goal of $ 2,850 and was able to collect $ 2,450. Although "Fever was very close to the goal it failed to reach the goal. Most likely the timing was the contributin factor for the failure.
+  General Data indicates that ($1,000-$ 4,999) goal range has 73% success rate and and low fail percentage.Between $ 15,000-$ 20,000 has 50-50 chance of failing or succeding.  As the goal amount raises the percentage of failure raises too. "Fever" had a goal of $ 2,850 and was able to collect $ 2,450.<br>
+  Although "Fever was very close to the goal it failed to reach the goal. Most likely the timing was the contributin factor for the failure.
 
 ![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Outcomes_Based_on_Goal.png)
 
@@ -25,7 +26,9 @@ The data shows that timing was not the best for launching campaing despite the d
 
 The counclusions we can draw from this data are:<br>
    September through March is not a good time to launch to any campaign possibly the spending on Christmas shopping created stress on the spending. <br>
+   
    On the ohter hand May is the best time to launch campaign.<br>
+   
    Although data indicates 73 % success rate for the bracet of $1000-$4999, "Fever" missed its $ 2800 goal by $400. Well it might have reached if it was in Switzerland or 
    in Singapoure as they are most successful reaching goals on plays.<br>
  
