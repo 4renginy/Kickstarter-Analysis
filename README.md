@@ -28,6 +28,6 @@ The counclusions we can draw from this data are:
    Although data indicates 73 % success rate for the bracet of $1000-$4999, "Fever" missed its $ 2800 goal by $400,it was very close to make it. Well it might have reached if it was in Switzerland or in Singapoure as they are most successful reaching goals on plays.
 What kind of activities are more successful in which countries, 
 
-![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
+![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Outcomes_Based_on_Country.png)
 
 
