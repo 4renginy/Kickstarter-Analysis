@@ -6,7 +6,8 @@ The purpose of this project is to find out about Fever campaing and  what is the
 Gounds to Kickstart project is to analyse the outcomes of all the campains and contributed factors of the failed or succeeded outcomes will be instumental for future projects.
 
 ## Analysis and Challenges
- 
+<span style="color:purple"> Purple </span><span style="color:red"> Red </span><span style="color:green"> Green </span>
+
 
 ### Analysis of Outcomes Based on Launch Date
 General data indicates that May is the best month to launch the campaigns. From then on the outcomes gradually goes down until September. November through March is the least successful months to start  campaings. <br>
