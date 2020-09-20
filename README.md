@@ -10,6 +10,7 @@ Gounds to Kickstart project is to analyse the outcome. Studying  what contribute
 
 ### Analysis of Outcomes Based on Launch Date
 General data indicates that May is the best month to launch the campaigns. From then on the outcomes gradually goes down until September .November through March is the least successful months to start  campaings. "Fever" campain started  in June and ended in  July. Although the goal was not high the campaing failed possibly due to the start date. 
+
 ![as;ldkfas;lkdfj] (https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Outcomes_Based_on_Goal.png)
 
 ### Analysis of Outcomes Based on Goals
