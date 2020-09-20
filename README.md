@@ -17,6 +17,7 @@ General data indicates that May is the best month to launch the campaigns. From 
 
 ### Analysis of Outcomes Based on Goals
   General Data indicates that ($1,000-$ 4,999) goal range has 73% success rate and and low fail percentage.Between $ 15,000-$ 20,000 has 50-50 chance of failing or succeding.  As the goal amount raises the percentage of failure raises too. "Fever" had a goal of $ 2,850 and was able to collect $ 2,450.<br>
+  
   Although "Fever was very close to the goal it failed to reach the goal. Most likely the timing was the contributin factor for the failure.
 
 ![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Outcomes_Based_on_Goal.png)
