@@ -27,10 +27,9 @@ The data shows that timing was not the best for launching campaing despite the d
 The counclusions we can draw from this data are:  
    September through March is not a good time to launch to any campaign possibly the spending on Christmas shopping created stress on the spending. <br>
    
-   On the ohter hand May is the best time to launch campaign.<br>
+   May is the best time to launch campaign and possibly take a longer than 30 daysto run the campaign.<br>
    
-   Although data indicates 73 % success rate for the bracet of $1000-$4999, "Fever" missed its $ 2800 goal by $400. Well it might have reached if it was in Switzerland or 
-   in Singapoure as they are most successful reaching goals on plays.<br>
+   The campaign might have reached its goal if it was in Switzerland or in Singapoure as they are most successful reaching goals on plays.<br>
  
 ![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Outcomes_Based_on_Country.png)
 
