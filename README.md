@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Our client Louise run a campaign for play called "Fever". The campaign run from June to July and failed to reach its goal by very low marjin. 
+Our client Louise wanted to put a play on called "Fever". For that she run a  campaign from June to July and failed to reach its goal by very low marjin. 
 
 #### Purpose
 Gounds to Kickstart project is to analyse the outcomes of the campain and finding out contributed factors for missing the goal very narrow marjin. What worked well and what did not will guide her for the next project.
