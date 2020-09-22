@@ -4,20 +4,18 @@
 Our client Louise run a campaign for play called "Fever". The campaign run from June to July and failed to reach its goal by very low marjin. 
 
 #### Purpose
-Gounds to Kickstart project is to analyse the outcomes of all the campain and contributed factors for missing the goal very narrow marjin.
+Gounds to Kickstart project is to analyse the outcomes of the campain and finding out contributed factors for missing the goal very narrow marjin. What worked well and what did not will guide her for the next project.
 ## Analysis and Challenges
 
 #### Analysis of Outcomes Based on Launch Date
-General data indicates that May is the best month to launch the campaigns. From then on the outcomes gradually goes down until September. November through March is the least successful months to start  campaings. <br>
+"Fever" campaign started  in June and ended in July. Although the goal was not high the campaing failed possibly due to the start date.<br>
 
-"Fever" campaign started  in June and ended in July. Although the goal was not high the campaing failed possibly due to the start date. 
+General data indicates that May is the best month to launch the campaigns. From then on the outcomes gradually goes down until September. November through March is the least successful months to start  campaings. <br>
 
 ![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 #### Analysis of Outcomes Based on Goals
-  General Data indicates that ($1,000-$ 4,999) goal range has 73% success rate and and low fail percentage.Between $ 15,000-$ 20,000 has 50-50 chance of failing or succeding.  As the goal amount raises the percentage of failure raises too. "Fever" had a goal of $ 2,850 and was able to collect $ 2,450.<br>
-  
-  Although "Fever was very close to the goal it failed to reach the goal. Most likely the timing was the contributin factor for the failure.
+  General Data indicates that ($1,000-$ 4,999) goal range has 73% success rate and and low fail percentage. Between $ 15,000-$ 20,000 has 50-50 chance of failing or succeding.  "Fever" had a goal of $ 2,850 and was able to collect $ 2,450 so the goal amount was not set high and this could not be a major contributing factor.
 
 ![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Outcomes_Based_on_Goal.png)
 
