@@ -21,7 +21,7 @@ General data indicates that May is the best month to launch the campaigns. From 
 
 ![](https://github.com/4renginy/Kickstarter-Analysis/blob/master/Resources/Outcomes_Based_on_Goal.png)
 
-####Challenges and Difficulties Encountered
+#### Challenges and Difficulties Encountered
 The data shows that timing was not the best for launching campaing despite the decent goal amount. In order to draw sound conculition we needed more data to find out why it failed. For example if there was a pandemic going on or if there was another popular play in town at the same time, , or demographic information of the play location. 
 
 ## Results
